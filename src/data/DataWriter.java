@@ -11,8 +11,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class DataWriter {
-    String csvFile = "C:\\Users\\LUCAS 3\\Desktop\\ConsolProject\\src\\data\\employees.csv";
-    String tempCsvFile = "C:\\Users\\LUCAS 3\\Desktop\\ConsolProject\\src\\data\\tempemployees.csv";
+    String csvFile = "employees.csv";
+    String tempCsvFile = "tempemployees.csv";
 
     public void addObjectIntoThefile(Employee employee) {
 
